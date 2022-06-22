@@ -2,7 +2,7 @@
 
 * It is a JavaFX Application based on Java 8.
 * 
-* it calculates average speed for two system and number of starts in specific time and monitor them.
+* It calculates average speed for two system and number of starts in specific time and monitor them.
 * 
 * Data is coming from file.data format.
 *
